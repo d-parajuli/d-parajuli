@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d-parajuli. I have worked in finance at an investment bank and in strategy at a high growth tech startup. And eventually, taught myself how to code.
+- 👋 Hi, I’m @d-parajuli. I'm a self taught programmer with work experience in investment banking and strategy.
 - 👀 I’m interested in technology and the vision for a post scarcity economy 
 - 🌱 I’m currently learning Golang and Machine Learning
 - 💞️ I’m looking to collaborate on initiatives that tackle biases in tech 
