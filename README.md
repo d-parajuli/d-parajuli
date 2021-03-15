@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @d-parajuli. I'm a self taught programmer with work experience in investment banking and strategy.
+- 👋 Hi, I’m @d-parajuli. I'm an economist by education and a self taught programmer. I have previously worked in finance at an investment bank and in strategy at a logstics tech startup.
 - 👀 I’m interested in technology and the vision for a post scarcity economy 
 - 🌱 I’m currently learning Golang and Machine Learning
 - 💞️ I’m looking to collaborate on initiatives that tackle biases in tech 
