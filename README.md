@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @d-parajuli, an economist by education and software developer by interest
+- 👋 Hi, I’m @d-parajuli. I have worked in finance at an investment bank and in strategy at a high growth tech startup. And eventually, taught myself how to code.
 - 👀 I’m interested in technology and the vision for a post scarcity economy 
 - 🌱 I’m currently learning Golang and Machine Learning
-- 💞️ I’m looking to collaborate on initiatives that tackle biases in tech
+- 💞️ I’m looking to collaborate on initiatives that tackle biases in tech 
 - 📫 How to reach me dikshya.parajuli@gmail.com
 
 <!---
